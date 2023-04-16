@@ -27,3 +27,6 @@ Manifest.toml
 
 # VSCode settings file
 .vscode/settings.json
+
+# gitignore file itself
+.gitignore
