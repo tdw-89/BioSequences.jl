@@ -581,7 +581,7 @@ end
 """
     Regex{T}(pattern::AbstractString, syntax=:pcre)
 
-Biological regular expression to seatch for `pattern` in sequences of type `T`, where
+Biological regular expression to search for `pattern` in sequences of type `T`, where
 `T` can be `DNA`, `RNA`, and `AminoAcid`. `syntax` can be `:pcre` or `:prosite` for AminoAcid
 acids.
 """
